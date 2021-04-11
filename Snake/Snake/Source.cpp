@@ -47,7 +47,7 @@ int main() {
             std::cout << "Movement on WASD\n";
             std::cout << "Flag - this is game mode (By default Flag = 1)\n";
             std::cout << "Set Flag(1): If you want GAME OVER, when you collision with the wall\n";
-            std::cout << "Set Flag(2): If you want to appear from the other side when in collision with the wall\n";
+            std::cout << "Set Flag(2): If you want to appear from the other side when in -\n";
             std::cout << "Speed - this is how fast the speed of the game will be, the larger the number, the slower it will go(By default Speed = 40)\n";
             system("pause");
             break;

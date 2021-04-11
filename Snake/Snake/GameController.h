@@ -1,6 +1,6 @@
 #pragma once
 #include<iostream>
-#include"SnakeController.h"
+#include"Snake.h"
 #include<windows.h>
 
 
@@ -15,7 +15,6 @@ class GameController
 
 	Snake snake;
 
-	SnakeController snkCntrllr;
 
 	const int width = 20;
 	const int height = 20;
